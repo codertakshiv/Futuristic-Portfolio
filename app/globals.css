@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* No global colors; components decide their own colors */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: radial-gradient(1200px circle at 50% -200px, rgba(46, 51, 56, 0.35), transparent 40%),
+              #0b0c10;
+}
+
+@layer utilities {
+  .text-balance { text-wrap: balance; }
+}

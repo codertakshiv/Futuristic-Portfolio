@@ -1,0 +1,9 @@
+- Upgrade the Home page “About Me” section into a rich, story-style introduction for Takshiv Kashyap that clearly communicates his role (developer/programmer/engineer), mission statement, core strengths, and quick stats (years of experience, number of projects, main languages). Present this content in a visually engaging layout featuring a prominent avatar/profile frame with a neon glow, subtle hover animation, and typography consistent with the existing dark futuristic theme.
+
+- Introduce lightweight 3D and motion elements across the site to enhance the futuristic feel, including floating geometric shapes, soft particle/blob background layers, parallax scrolling sections, and 3D tilt effects on cards. Ensure these effects feel smooth, unobtrusive, and do not compromise performance or readability.
+
+- Improve site-wide navigation and interactivity: implement a sticky navbar that highlights the active section, enable smooth scrolling to anchors, and provide a consistent active state across pages (Home, Projects, About, Contact). Maintain the existing theme and ensure seamless transitions between sections.
+
+- Enhance project exploration by transforming project cards into interactive elements that open a project details modal or dedicated details page. Include concise overviews on the cards and richer content in the details view (description, tech stack, role, links), with accessible controls to open/close and clear visual hierarchy aligned to the theme.
+
+- Add a functional Contact form with client-side validation for required fields and formats, clear inline error/success states, and submission to a mock API endpoint or placeholder handler. Provide user feedback for sending, success, and failure states, and ensure the form is responsive, accessible, and consistent with the overall design language.
